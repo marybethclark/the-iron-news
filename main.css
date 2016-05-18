@@ -2,7 +2,7 @@ body{
   margin:2% 10%;
   border: 1px solid black;
 }
-
+/*............The Grey Bar Itself*/
 .container{
   width: 95%;
 margin-left: 10px;
@@ -10,11 +10,13 @@ margin-top: 10px;
 margin-bottom: 10px;
 background-color:#706E6C;
 }
-
+/*...........The Nav Bar Text*/
 div{
   display: inline-block;
 }
+.IYN-title{
 
+}
 .nav-items{
   display: inline-block;
   padding: 10px;
